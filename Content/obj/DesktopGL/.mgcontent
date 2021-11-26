@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arcan/source/repos/Pong/Content/1x1_#ffffffff.png</File>
+    <File>C:/Users/arcan/source/repos/Pong/Content/blackPixel.png</File>
+    <File>C:/Users/arcan/source/repos/Pong/Content/MyFont.spritefont</File>
+    <File>C:/Users/arcan/source/repos/Pong/Content/whitesquare.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

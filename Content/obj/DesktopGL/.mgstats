@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/arcan/source/repos/Pong/Content/1x1_#ffffffff.png","C:/Users/arcan/source/repos/Pong/Content/bin/DesktopGL/1x1_#ffffffff.xnb","TextureProcessor","Texture2DContent",83,89,0.3361593
+"C:/Users/arcan/source/repos/Pong/Content/blackPixel.png","C:/Users/arcan/source/repos/Pong/Content/bin/DesktopGL/blackPixel.xnb","TextureProcessor","Texture2DContent",83,89,0.3170451
+"C:/Users/arcan/source/repos/Pong/Content/MyFont.spritefont","C:/Users/arcan/source/repos/Pong/Content/bin/DesktopGL/MyFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3499056
+"C:/Users/arcan/source/repos/Pong/Content/whitesquare.jpg","C:/Users/arcan/source/repos/Pong/Content/bin/DesktopGL/whitesquare.xnb","TextureProcessor","Texture2DContent",13265,3240085,0.4189901
